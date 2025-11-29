@@ -1,0 +1,1 @@
+# Gerador-de-Avatares-SVG-Projeto-A3-de-Computa-o-Gr-fica
