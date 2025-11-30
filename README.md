@@ -56,4 +56,9 @@ Este gerador foi desenvolvido como parte da A3 da disciplina de Computação Gr�
 
 ## integrantes:
 
-Nathan Ferreira dos Reis RA: 822156739 <br>
+Enzo Silva Araújo                   RA: 8222248346<br>
+Henrique Brenner Alves Matias       RA: 824221613 <br>
+José Iran Barbosa Fernandes Júnior  RA: 822163632 <br>
+Matheus De Paula Oliveira           RA: 822160889 <br>
+Nathan Ferreira dos Reis            RA: 822156739 <br>
+Victor de Carvalho Araújo           RA: 822133651 <br>
